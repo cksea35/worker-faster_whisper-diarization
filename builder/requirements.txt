@@ -3,6 +3,6 @@ faster-whisper==1.1.0
 soundfile
 torchaudio==2.2.0
 matplotlib
-numpy
+numpy<2.0
 pyannote.audio==3.3.1
 huggingface_hub
